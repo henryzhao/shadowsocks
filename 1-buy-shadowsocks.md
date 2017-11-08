@@ -4,16 +4,16 @@
 
 ## 普通版、高級版和旗艦版的區別
 
-普通版(Essential)：適合偶爾使用，加速國外網站需求不强烈的客戶  
-高級版(Premium)：適合使用頻率較高，但對綫路不敏感的客戶  
-旗艦版(Ultimate)：適合對綫路敏感，要求速度保障的客戶  
-定制版：目前暫時不開放  
+Starter ：適合偶爾使用，加速國外網站需求不强烈的客戶   
+Premium ：適合使用頻率較高，但對綫路不敏感的客戶  
+Ultimate ：適合對綫路敏感，要求速度保障的客戶  
+IPv6 : 適合本地網絡支持 IPv6 環境的用戶使用
 
 閣下可以在[這裏](https://portal.shadowsocks.la/cart.php)查看我們的產品列表和介紹。
 
 # Shadowsocks 購買流程
 
-我們以旗艦版為例，點擊[立即購買](https://portal.shadowsocks.la/cart.php?a=add&pid=36)按鈕后，選擇您的付款周期並繼續
+我們以旗艦版為例，點擊[立即購買](https://portal.shadowsocks.la/cart.php)按鈕后，選擇您的付款周期並繼續
 
 ![](https://ooo.0o0.ooo/2017/01/04/586d05895415d.png)
 
