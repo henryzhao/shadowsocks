@@ -13,7 +13,7 @@ IPv6 : 適合本地網絡支持 IPv6 環境的用戶使用
 
 # Shadowsocks 購買流程
 
-我們以旗艦版為例，點擊[立即購買](https://portal.shadowsocks.la/cart.php)按鈕后，選擇您的付款周期並繼續
+我們以旗艦版為例，點擊[立即購買](https://portal.shadowsocks.la/cart.php?a=add&pid=36)按鈕后，選擇您的付款周期並繼續
 
 ![](https://ooo.0o0.ooo/2017/01/04/586d05895415d.png)
 
